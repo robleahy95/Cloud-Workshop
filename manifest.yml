@@ -1,0 +1,5 @@
+applications:
+ - name: loving-varahamihira
+   memory: 256M
+   host: loving-varahamihira
+   buildpack: staticfile_buildpack
